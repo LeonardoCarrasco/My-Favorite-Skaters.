@@ -3,7 +3,7 @@
     "imagen": "https://dewtour.com/wp-content/uploads/2017/06/tom-asta.jpg",
     "ranking": "03",
     "bgColor": "#A2D8FF",
-    "path": "/tomasta",
+    "path": "./tomasta",
     "socials": {
       "instagram": "https://www.instagram.com/tomasta/",
       "twitter": "https://twitter.com/tomasta",

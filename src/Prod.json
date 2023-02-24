@@ -3,7 +3,7 @@
     "imagen": "https://dewtour.com/wp-content/uploads/2021/05/p_rod_RESIZED_1000.jpg",
     "ranking": "04",
     "bgColor": "#FFB7D1",
-    "path": "/paulrodriguez",
+    "path": "./paulrodriguez",
     "socials": {
       "instagram": "https://www.instagram.com/prod/",
       "twitter": "https://twitter.com/prod84",

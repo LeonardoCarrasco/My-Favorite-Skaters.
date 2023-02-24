@@ -10,8 +10,8 @@ function App() {
   return (
     <div className="App">
       <Routes>
-        <Route path="/" element={<Home />} />
-        {Skaters.map((skater,key) => <Route key={key} path={skater.path} element={<Skater skater={skater} />} />)}
+        <Route path="/My-Favorite-Skaters./" element={<Home />} />
+        {Skaters.map((skater,key) => <Route key={key} path={`/My-Favorite-Skaters${skater.path}`} element={<Skater skater={skater} />} />)}
       </Routes>
     </div>
   )

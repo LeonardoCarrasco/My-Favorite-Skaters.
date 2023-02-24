@@ -2,7 +2,7 @@ import { Link } from "react-router-dom"
 
 const Logo = () => {
     return (
-        <Link to='/' href="#" className='logo hover:transition-all hover:scale-105'>
+        <Link to='/My-Favorite-Skaters./' href="#" className='logo hover:transition-all hover:scale-105'>
         MFS.
       </Link>
     )

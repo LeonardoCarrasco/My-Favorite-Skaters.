@@ -3,7 +3,7 @@
     "imagen": "https://dewtour.com/wp-content/uploads/2022/07/shane_oniell_RESIZED_1000.jpg",
     "ranking": "01",
     "bgColor": "#EEFF88",
-    "path": "/shaneoneill",
+    "path": "./shaneoneill",
     "socials": {
       "instagram": "https://www.instagram.com/shanejoneill/",
       "twitter": "https://twitter.com/shanejoneill",

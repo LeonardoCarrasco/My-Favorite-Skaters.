@@ -1,3 +1,5 @@
+import SkaterBoy from '../images/skateboy1.png';
+import Stickers from '../images/bg-stickerss.png';
 
 const Intro = () => {
     return (
@@ -9,10 +11,10 @@ const Intro = () => {
         <div className='mx-atuo'>
           <div className='relative mx-auto md:w-6/12 lg:w-2/4 xl:w-2/5 w-9/12 -top-10 sm:-top-20 md:-top-22 lg:-top-18'>
             <figure className='relative z-30'>
-              <img src="src\assets\skateboy1.png" alt="skateboy" className='saturate-50 drop-shadow-2xl' />
+              <img src={SkaterBoy} alt="skateboy" className='saturate-50 drop-shadow-2xl' />
             </figure>
             <figure className='absolute top-14 z-20'>
-              <img src="src\assets\bg-stickerss.png" alt="sticker bg" />
+              <img src={Stickers} alt="sticker bg" />
             </figure>
           </div>
         </div>

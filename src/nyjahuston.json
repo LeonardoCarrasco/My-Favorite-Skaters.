@@ -3,7 +3,7 @@
     "ranking": "02",
     "imagen": "https://dewtour.com/wp-content/uploads/2021/05/nyjah_huston_RESIZED_1000.jpg",
     "bgColor": "#94FF92",
-    "path": "/nyjahuston",
+    "path": "./nyjahuston",
     "socials": {
       "instagram": "https://www.instagram.com/nyjah/",
       "twitter": "https://twitter.com/nyjah",
