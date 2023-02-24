@@ -1,0 +1,16 @@
+{
+    "nombre": "Tom Asta",
+    "imagen": "https://dewtour.com/wp-content/uploads/2017/06/tom-asta.jpg",
+    "ranking": "03",
+    "bgColor": "#A2D8FF",
+    "path": "/tomasta",
+    "socials": {
+      "instagram": "https://www.instagram.com/tomasta/",
+      "twitter": "https://twitter.com/tomasta",
+      "youtube": "https://www.youtube.com/@tomasta",
+      "wikipedia": ""
+    },
+    "biografia": "Tom Asta es un skater profesional estadounidense nacido el 14 de abril de 1990 en Langhorne, Pensilvania. Comenzó a patinar a los 13 años y rápidamente se destacó por su habilidad técnica en el skateboard street. En 2010, fue patrocinado por la marca de skateboarding Element, y desde entonces ha competido y ganado numerosos eventos de skateboarding street, incluyendo el Campeonato Mundial de Skateboarding Street de la Federación Internacional de Skateboarding (World Skate) en 2018, los X Games de Austin en 2014, y el concurso de Skateboard Street del Tampa Pro en 2015 y 2016. Asta es conocido por su estilo técnico y su capacidad para realizar trucos difíciles con facilidad. Además de su carrera en el skateboarding, Asta también ha lanzado su propia línea de ropa y ha aparecido en varios vídeos de skateboarding.",
+    "patrocinadores": ["https://rictawheels.com/images/logos/ricta-wheel-dynamics.png","https://i.pinimg.com/originals/a0/e3/fd/a0e3fddba65afc2ffe9a2b0a4e66b689.jpg", "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fe/%C3%89S_Footwear_Logo.svg/1200px-%C3%89S_Footwear_Logo.svg.png", "https://mobgrip.com/images/logos/mob-grip.png"]
+  }
+  

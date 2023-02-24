@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+:root{
+  --main-bg-color: #FF9797;
+  --yellow-card-color: #E3FF3A;
+  --green-card-color: #3EFF3A;
+  --blue-card-color: #3AACFF;
+  --pink-card-color: #FF3A81;
+  --black-color: #1A1A1A;
+  --bg-color-logo: #181818;
+
+  --yellow-bg-color: #EEFF88;
+  --green-bg-color: #94FF92;
+  --blue-bg-color: #A2D8FF;
+  --pink-bg-color: #FFB7D1;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-size: 18px;
+  font-family: 'Rubik', sans-serif;
+  color: var(--black-color);
+  /* background-color: var(--main-bg-color); */
+}
+
+a{
+  text-decoration: none;
+}
+
+#_Home, #Skater{
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+h1{
+  font-size: 5em;
+  line-height: 1.1;
+  font-weight: 900;
+  color: var(--bg-color-logo);
+  text-align: center;
+}
+
+#Home{
+  background-color: var(--main-bg-color);
+}

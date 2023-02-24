@@ -1,0 +1,35 @@
+.logo{
+    color: #fff;
+    display: inline-block;
+    padding: 1em;
+    background-color: var(--bg-color-logo);
+    text-align: center;
+    font-weight: bold;
+    line-height: 1.2;
+}
+
+.main-title{
+    font-size: 72px;
+    background: -webkit-linear-gradient(var(--bg-color-logo), hsla(0, 0%, 20%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.text-behind{
+    -webkit-text-stroke-width: 10px;
+    -webkit-text-stroke-color: rgba(255, 114, 114, 0.5);
+    color: #0000;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.sombra{
+    box-shadow: 20px 20px 0px 5px #1a1a1a;
+}
+
+.sombra-text-box{
+    box-shadow: 16px 16px 0px 0px #1a1a1a;
+
+}

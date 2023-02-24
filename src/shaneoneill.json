@@ -1,0 +1,16 @@
+{
+    "nombre": "Shane O'Neill",
+    "imagen": "https://dewtour.com/wp-content/uploads/2022/07/shane_oniell_RESIZED_1000.jpg",
+    "ranking": "01",
+    "bgColor": "#EEFF88",
+    "path": "/shaneoneill",
+    "socials": {
+      "instagram": "https://www.instagram.com/shanejoneill/",
+      "twitter": "https://twitter.com/shanejoneill",
+      "youtube": "https://www.youtube.com/@shanejoneill",
+      "wikipedia": "https://es.wikipedia.org/wiki/Shane_O%27Neill"
+    },
+    "biografia": "Shane O'Neill es un skater profesional australiano nacido el 3 de enero de 1990 en Melbourne. Aprendió a patinar a los 6 años y se convirtió en profesional a los 16 años. O'Neill es conocido por su habilidad en la realización de trucos técnicos y su estilo suave y fluido en el skateboard street. Es un skater muy respetado en la comunidad del skateboarding y ha ganado varios títulos y competencias importantes, incluyendo una medalla de oro en Skateboard Street en los X Games, el Street League Skateboarding en 2016 y el Tampa Pro en 2010, 2012 y 2013. ",
+    "patrocinadores": ["https://upload.wikimedia.org/wikipedia/commons/b/b2/Nike_sb_logo.png","https://i.pinimg.com/originals/da/c8/f9/dac8f947fffdb3bb0ea1dfa14874b089.jpg", "https://cdn.shopify.com/s/files/1/0011/9416/4291/files/April-Logo-White_v2_1746x.png?v=1646689292", "https://seeklogo.com/images/S/spitfire-logo-1DD11D1CFB-seeklogo.com.png"]
+  }
+  
