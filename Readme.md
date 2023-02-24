@@ -2,9 +2,7 @@
 
 ## A personal website of my fav skaters. [The Website Link](https://leonardocarrasco.github.io/My-Favorite-Skaters./).
 
-I made it with **React, Tailwind** and first use of **react-router-dom.**
-
-I made the design in **Figma**
+I did it with **react**, **tailwind** , design with **figma** and using for the first time **react-router-dom**.
 
 
 ![The design ofthe first page](imgs/complete.png)
